@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>f_ModInst_Boucle</class>
+ <widget class="QDialog" name="f_ModInst_Boucle">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Modification de la boucle</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>:/Images/Items/iconboucle.png</normaloff>:/Images/Items/iconboucle.png</iconset>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QRadioButton" name="RadioTQ">
+       <property name="text">
+        <string>Boucle Tant que...fin</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QRadioButton" name="RadioJQ">
+       <property name="text">
+        <string>Boucle Répéter...Jusqu'à</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

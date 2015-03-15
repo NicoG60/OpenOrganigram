@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Sup/51.PNG</file>
+        <file>Images/Sup/Capture.bmp</file>
+        <file>Images/Sup/gris metal.JPG</file>
+        <file>Images/Sup/iconepower.bmp</file>
+        <file>Images/Sup/metal-2.bmp</file>
+        <file>Images/Sup/oeil.bmp</file>
+        <file>Images/Sup/OFF.png</file>
+        <file>Images/Sup/droite.png</file>
+        <file>Images/Sup/gauche.png</file>
+        <file>Images/Sup/ON.png</file>
+    </qresource>
+</RCC>
